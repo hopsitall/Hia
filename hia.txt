@@ -1,0 +1,12 @@
+actual intelligence that allows users to learn from themselves.
+
+
+how it works:
+
+im the first in
+but your the first out.
+
+-> in 
+-> out inserts ahead of -> in
+-> next in
+-> rotate array infinitly
